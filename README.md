@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, redux**
 
-- 📫 How to reach me **ambeshpm@gmail.com**
+- 📫 Mail me at **ambeshpm@gmail.com**
 
 - ⚡ Fun fact **I'm geek**
 
@@ -26,7 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ambesh987&show_icons=true&locale=en" alt="ambesh987" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ambesh987&" alt="ambesh987" /></p>
-
-
-
-
