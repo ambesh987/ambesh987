@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ambesh-mishra.netlify.app/](https://ambesh-mishra.netlify.app/)
 
-- 💬 Ask me about **react, redux**
+- 💬 Ask me about **React Js**
 
 - 📫 Mail me at **ambeshpm@gmail.com**
 
