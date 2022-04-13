@@ -11,7 +11,7 @@
 
 - 📫 Mail me at **ambeshpm@gmail.com**
 
-- ⚡ Fun fact **never ever give up!*
+- ⚡ Fun fact *never ever give up!*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
