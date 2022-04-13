@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ambesh Mishra</h1>
-<h3 align="center">A passionate full stack developer from Kalyan.</h3>
+<h3 align="center">A passionate full stack developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ambesh987&label=Profile%20views&color=0e75b6&style=flat" alt="ambesh987" /> </p>
 
-- 🌱 I’m currently learning **full stack web development.**
+- 🌱 I’m currently learning **Full stack web development.**
 
 - 👨‍💻 All of my projects are available at [https://ambesh-mishra.netlify.app/](https://ambesh-mishra.netlify.app/)
 
