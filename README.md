@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://ambesh-mishra.netlify.app/](https://ambesh-mishra.netlify.app/)
 
-- 💬 Ask me about **React Js**
+- 💬 Ask me about **Javascript, react js**
 
 - 📫 Mail me at **ambeshpm@gmail.com**
 
-- ⚡ Fun fact **I'm geek**
+- ⚡ Fun fact **never ever give up!*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
