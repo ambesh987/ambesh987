@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ambesh987&label=Profile%20views&color=0e75b6&style=flat" alt="ambesh987" /> </p>
-<p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2FkVUesDC8MPkZu0yGvxhH&ust=1650282713312000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIC1iKqEm_cCFQAAAAAdAAAAABAD" alt="gif" /></p>
+
 - 🌱 I’m currently learning **Full stack web development.**
 
 - 👨‍💻 All of my projects are available at [https://ambesh-mishra.netlify.app/](https://ambesh-mishra.netlify.app/)
